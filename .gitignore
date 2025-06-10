@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Xcode
+*.xcuserdata
+DerivedData/
+*.xcworkspace
+
+# SwiftPM
+.build/
+Package.resolved
+
+# Logs
+*.log
+
+# Secrets
+*.env
