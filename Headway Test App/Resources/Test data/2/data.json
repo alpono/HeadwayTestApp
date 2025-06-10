@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "name": "How To Win Friends & Influence People",
+    "image": "cover.jpg",
+    "keypoints": [
+        {
+            "title": "Believe it or not, 1936 is still relevant today",
+            "file": "HTWF.1.mp3",
+            "duration": 40,
+            "text": "Believe it or not, 1936 is still relevant today\n\nIndeed a book written more than 80 years ago holds no relevance in the modern-day?\n\nSurely our lives have moved on; surely we are far more digitally-minded than those days?\n\nWell, yes, but regardless of technological advancements, it seems the human mind is still stuck in the zos in so many ways!\n\nDale Carnegie spoke sense, and he told the truth — \"dealing with people is probably the biggest problem you face.\" True even today!\n\nBy understanding the art of communication in a way that goes far beyond simply speaking words, you will create opportunities for huge success throughout your life."
+        },
+        {
+            "title": "Be careful of what you type and what you say",
+            "file": "HTWF.2.mp3",
+            "duration": 39,
+            "text": "Be careful of what you type and what you say\n\nSocial media is a blessing in many ways but a curse in so many others. It brings you closer to more people than you could ever have imagined but takes you away from those sitting right next to you. It can also be a make or break in terms of business and relationships. Take Ryan Babel, the Dutch footballer, as a good example. Feeling rather annoyed after his team, Liverpool, lost to Manchester United, he took to his Twitter account to vent his frustrations, calling out the referee's ability. The result? He was fined around $16,000."
+        }
+    ]
+}
