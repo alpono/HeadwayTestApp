@@ -15,3 +15,8 @@ Package.resolved
 
 # Secrets
 *.env
+
+# Ignore Xcode user data
+*.xcuserdatad
+*.xcuserstate
+xcuserdata/
